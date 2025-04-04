@@ -18,6 +18,8 @@ public class ModItemGroups {
                     .entries((displayContext, entries) -> {
                         entries.add(ModItems.DARK_STEEL);
                         entries.add(ModItems.RAW_DARK_STEEL);
+
+                        entries.add(ModItems.CHISEL);
                     }).build());
 
     public static final ItemGroup ELEMENTAL_BLOCKS_GROUP = Registry.register(Registries.ITEM_GROUP,

@@ -1,6 +1,7 @@
 package net.daelith.eclipse.item;
 
 import net.daelith.eclipse.Tutorialmod;
+import net.daelith.eclipse.item.custom.ChiselItem;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroups;
@@ -11,6 +12,8 @@ import net.minecraft.util.Identifier;
 public class ModItems {
     public static final Item DARK_STEEL = registerItem("dark_steel", new Item(new Item.Settings()));
     public static final Item RAW_DARK_STEEL = registerItem("raw_dark_steel", new Item(new Item.Settings()));
+
+    public static final Item CHISEL = registerItem("chisel", new ChiselItem(new Item.Settings().maxDamage(32)));
 
 
     private static Item registerItem(String name, Item item) {

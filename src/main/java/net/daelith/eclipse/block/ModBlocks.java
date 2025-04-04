@@ -16,7 +16,7 @@ import net.minecraft.util.math.intprovider.UniformIntProvider;
 
 public class ModBlocks {
     public static final Block DARK_STEEL_BLOCK = registerBlock("dark_steel_block",
-            new Block(AbstractBlock.Settings.create().strength(80.0f, 1800.0f)
+            new Block(AbstractBlock.Settings.create().strength(70.0f, 1800.0f)
                     .requiresTool()
                     .sounds(BlockSoundGroup.NETHERITE)));
 

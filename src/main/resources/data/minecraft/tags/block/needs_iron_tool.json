@@ -2,6 +2,7 @@
   "replace": false,
   "values": [
     "tutorialmod:dark_steel_block",
-    "tutorialmod:dark_steel_ore"
+    "tutorialmod:dark_steel_ore",
+    "tutorialmod:raw_dark_steel_block"
   ]
 }
