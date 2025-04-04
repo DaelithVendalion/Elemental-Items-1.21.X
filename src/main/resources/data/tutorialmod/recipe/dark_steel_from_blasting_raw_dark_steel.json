@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.4,
+  "group": "dark_steel",
+  "ingredient": {
+    "item": "tutorialmod:raw_dark_steel"
+  },
+  "result": {
+    "id": "tutorialmod:dark_steel"
+  }
+}

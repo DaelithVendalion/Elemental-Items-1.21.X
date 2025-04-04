@@ -1,0 +1,13 @@
+{
+  "item.tutorialmod.dark_steel": "Dark Steel Ingot",
+  "item.tutorialmod.raw_dark_steel": "Raw Dark Steel",
+
+  "block.tutorialmod.dark_steel_block": "Block of Dark Steel",
+  "block.tutorialmod.raw_dark_steel_block": "Block of Raw Dark Steel",
+
+  "block.tutorialmod.dark_steel_ore": "Dark Steel Ore",
+  "block.tutorialmod.dark_steel_deepslate_ore": "Dark Steel Deepslate Ore",
+
+  "itemgroup.tutorialmod.elemental_items": "Elemental Items",
+  "itemgroup.tutorialmod.elemental_blocks": "Elemental Blocks"
+}
